@@ -16,7 +16,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 @Listeners(Generic_Utilities.Reports.class)
 public class productcreateTest extends BaseClass {
-
+//pull
 	@Test(groups = "regression")
 	public void createproduct() throws Throwable {
 		
